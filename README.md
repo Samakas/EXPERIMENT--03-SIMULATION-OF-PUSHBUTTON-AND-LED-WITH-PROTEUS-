@@ -2,7 +2,7 @@
 
 ## Name: Samakash R S
 ## Register no: 212223230182
-## Date: 
+## Date: 20/08/2024
 
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
